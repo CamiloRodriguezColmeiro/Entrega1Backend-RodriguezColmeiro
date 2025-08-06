@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Hamburguesa BaconCheese",
+    "stock": 2,
+    "price": 5000,
+    "description": "Hamburguesa con Papas Fritas",
+    "category": "Hamburguesa",
+    "code": 55443,
+    "thumbnail": "[]",
+    "status": true,
+    "id": "f84ddef8-50a0-424b-919c-8aae181a6274"
+  }
+]
